@@ -1,0 +1,10 @@
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.csproj.AssemblyReference.cache
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.Form1.resources
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.Properties.Resources.resources
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.csproj.GenerateResource.cache
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+C:\Users\taman\source\repos\Lift\Lift\bin\Debug\Lift.exe.config
+C:\Users\taman\source\repos\Lift\Lift\bin\Debug\Lift.exe
+C:\Users\taman\source\repos\Lift\Lift\bin\Debug\Lift.pdb
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.exe
+C:\Users\taman\source\repos\Lift\Lift\obj\Debug\Lift.pdb
